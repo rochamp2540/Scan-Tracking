@@ -1,0 +1,18 @@
+table,
+th {
+  border: 1px solid black;
+}
+p {
+  margin: 0;
+}
+.float{
+  float: left;
+  margin: 20px;
+}
+.p {
+  border: 1px solid black;
+  margin: 5px;
+}
+h4 {
+  margin: 5px;
+}
